@@ -1,0 +1,15 @@
+.content {
+  max-width: 800px;
+  background: light-yellow;
+}
+
+body, html {
+  font-family: "Times New Roman", Times, serif;
+  max-width: 800px;
+}
+table, th, td {
+  border: none;
+}
+td {
+  padding: 0 1em;
+}
